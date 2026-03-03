@@ -5,3 +5,12 @@
   padding: 0;
   margin: 0;
 }
+
+.container {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
+  background-color: black;
+}
