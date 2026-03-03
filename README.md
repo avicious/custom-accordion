@@ -14,7 +14,7 @@ A sleek, lightweight, and accessible React accordion component built with CSS Mo
 1. Clone the repository (or copy the files into your project):
 
 ```bash
-git clone https://github.com/your-username/react-custom-accordion.git
+git clone https://github.com/avicious/custom-accordion.git
 ```
 
 2. Install dependencies:
