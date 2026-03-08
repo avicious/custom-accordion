@@ -2,14 +2,14 @@
 
 A sleek, lightweight, and accessible React accordion component built with CSS Modules and Lucide icons. It features a smooth height transition using `scrollHeight`, ensuring the animation works even with dynamic content.
 
-## 🚀 Features
+## Features
 
 - **Smooth Animations:** Uses `max-height` transitions for a fluid open/close effect.
 - **Accessibility:** Includes `aria-expanded`, `aria-controls`, and proper `role` attributes.
 - **Highly Customizable:** Styled via CSS Modules for scoped, conflict-free styling.
 - **Responsive:** Adapts to the size of its children automatically.
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository (or copy the files into your project):
 
@@ -23,7 +23,7 @@ git clone https://github.com/avicious/custom-accordion.git
 npm install
 ```
 
-## 🚀 Usage
+## Usage
 
 Import the component and pass in a title prop. Any nested elements will be treated as the collapsible content.
 
